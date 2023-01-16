@@ -2,6 +2,7 @@
   "languages": {
     "ada": "Ada",
     "bash": "Bash",
+    "c": "C",
     "cpp": "C++",
     "csharp": "C#",
     "clojure": "Clojure",
@@ -9,11 +10,13 @@
     "haskell": "Haskell",
     "java": "Java",
     "javascript": "JavaScript",
+    "lua": "Lua",
     "nim": "Nim",
     "objectivec": "Objective-C",
     "perl": "Perl",
     "php": "PHP",
     "python": "Python",
+    "r":"R",
     "ruby": "Ruby",
     "rust": "Rust",
     "scala": "Scala",
@@ -30,6 +33,7 @@
     "io": "Input and Output",
     "lists": "Lists, Arrays, and Hashed Lists",
     "operators": "Logical and Mathematical/Arithmetic Operators",
+    "queues_stacks": "Queues and Stacks",
     "strings": "Strings"
   }
 }
